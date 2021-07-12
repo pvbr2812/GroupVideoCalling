@@ -960,11 +960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VISHWANATH REDDY\\Documents\\Teams_Clone\\Group_Call\\Calling\\Calling.csproj",
+      "projectUniqueName": "C:\\Users\\VISHWANATH REDDY\\Documents\\Git Uploads\\GroupVideoCalling\\Calling\\Calling.csproj",
       "projectName": "Calling",
-      "projectPath": "C:\\Users\\VISHWANATH REDDY\\Documents\\Teams_Clone\\Group_Call\\Calling\\Calling.csproj",
+      "projectPath": "C:\\Users\\VISHWANATH REDDY\\Documents\\Git Uploads\\GroupVideoCalling\\Calling\\Calling.csproj",
       "packagesPath": "C:\\Users\\VISHWANATH REDDY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VISHWANATH REDDY\\Documents\\Teams_Clone\\Group_Call\\Calling\\obj\\",
+      "outputPath": "C:\\Users\\VISHWANATH REDDY\\Documents\\Git Uploads\\GroupVideoCalling\\Calling\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VISHWANATH REDDY\\AppData\\Roaming\\NuGet\\NuGet.Config"
